@@ -32,4 +32,4 @@ Hari ini tanggal 31 januari 2025, saya akan membuat laporan jaringan komputer me
 - Langkah 10: akan muncul tampilan seperti ini > pilih add > klik everyone > klik read/write.
 
   <img src="add.png" width=220 height=255>
-- Langkah 11: 
+- Langkah 11: pada laptop B ditampilan awal, pencet keybord ( CTRL + R ) laluketikan 192.168.88.5
