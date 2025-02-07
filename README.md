@@ -32,4 +32,10 @@ Hari ini tanggal 31 januari 2025, saya akan membuat laporan jaringan komputer me
 - Langkah 10: akan muncul tampilan seperti ini > pilih add > klik everyone > klik read/write.
 
   <img src="add.png" width=220 height=255>
-- Langkah 11: pada laptop B ditampilan awal, pencet keybord ( CTRL + R ) laluketikan 192.168.88.5
+- Langkah 11: pada laptop B ditampilan awal, pencet keybord ( Windows + R ) lalu ketikan 192.168.88.5
+
+  <img src="Windows+R (2).png" width=280 height=255>
+- Langkah 12: Tunggu Sampai muncul tampilan seperti ini, jika tampilan seperti digamabr muncul, berarti sharing telah berhasil.
+
+  <img src="selesai 2.png" width=600 height=150>
+- Terima kasih
