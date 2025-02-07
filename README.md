@@ -1,4 +1,9 @@
 # Laporan Praktikum Jaringan Komputer 2
+NAMA : M WALID FARHAN
+
+NIM  : 09030282327039
+
+KELAS: TK4A
 
 Hari ini tanggal 31 januari 2025, saya akan membuat laporan jaringan komputer mengenai, bagaimana cara sharing file/menghubungkan dari laptop A ke Laptop B, menggunakan kabe lan sebagai penghubung antar laptop.
 
